@@ -1,0 +1,10 @@
+ Volume in drive D is Data
+ Volume Serial Number is 3C94-510B
+
+ Directory of D:\Project1
+
+04/11/2019  10:49 AM    <DIR>          .
+04/11/2019  10:49 AM    <DIR>          ..
+04/11/2019  10:49 AM                 0 f1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  273,513,041,920 bytes free
